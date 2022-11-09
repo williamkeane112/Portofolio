@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portofolio/static/css/main.6a5eecbc.css",
+    "main.js": "/Portofolio/static/js/main.355c3c04.js",
+    "static/media/tt.png": "/Portofolio/static/media/tt.6a51fde3a6a18249a790.png",
+    "static/media/wa.png": "/Portofolio/static/media/wa.818eca3f9105d5e6cbd7.png",
+    "static/media/gmail.png": "/Portofolio/static/media/gmail.f2f70e6e714395895eb2.png",
+    "static/media/ig-2.png": "/Portofolio/static/media/ig-2.c57be78e5ad26567e084.png",
+    "static/media/foodweb.png": "/Portofolio/static/media/foodweb.91baae8f364b263204a1.png",
+    "static/media/tw.png": "/Portofolio/static/media/tw.686eb8a87606f2e484df.png",
+    "static/media/fb-2.png": "/Portofolio/static/media/fb-2.e4b139b38ef2d9a2de83.png",
+    "static/media/header-img.svg": "/Portofolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/react.png": "/Portofolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/contact-img.svg": "/Portofolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/html.png": "/Portofolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/Portofolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/Portofolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/Portofolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/Portofolio/index.html",
+    "main.6a5eecbc.css.map": "/Portofolio/static/css/main.6a5eecbc.css.map",
+    "main.355c3c04.js.map": "/Portofolio/static/js/main.355c3c04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a5eecbc.css",
+    "static/js/main.355c3c04.js"
+  ]
+}
