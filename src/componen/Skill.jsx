@@ -42,7 +42,7 @@ const Skill = () => {
     <div name="skill" className="bg-gradient-to-b from-gray-800 to-black w-full h-screen">
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
         <div>
-          <span className="uppercase text-4xl font-bold border-b-4 border-gray-500 p-2 inline bg-gradient-to-l text-transparent bg-clip-text from-sky-600 to-teal-500">skill</span>
+          <span className="uppercase text-4xl font-bold border-b-4 border-gray-500 p-2 inline bg-gradient-to-l text-transparent bg-clip-text from-sky-600 to-teal-500 font-inter2" >skill</span>
         </div>
         <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0 font-inter2">
           {MySkill.map(({ id, src, title, style }) => (

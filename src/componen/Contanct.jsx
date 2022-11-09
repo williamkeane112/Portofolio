@@ -5,9 +5,9 @@ const Contanct = () => {
     <div name="contanct" className="bg-gradient-to-b from-black to-gray-800 w-full ">
       <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full ">
         <div className="pb-8 mt-32">
-          <span className="border-b-4 border-gray-500 inline text-4xl font-bold uppercase bg-gradient-to-l text-transparent bg-clip-text from-sky-600 to-teal-500 ">Contanct</span>
+          <span className="border-b-4 border-gray-500 inline text-4xl font-bold uppercase bg-gradient-to-l text-transparent bg-clip-text from-sky-600 to-teal-500 font-inter2">Contanct</span>
           <div className="flex flex-wrap mt-10 ">
-            <img src={img2} alt="icon" className="w-96 lg:w-1/2 animate-bounce  " />
+            <img src={img2} alt="icon" className="w-96 lg:w-1/2   " />
             <div className=" max-w-lg border border-slate-400 my-10 rounded-xl mx-auto p-5 shadow-md font-serif lg:w-1/2">
               <div>
                 <input

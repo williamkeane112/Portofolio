@@ -53,7 +53,7 @@ const NavBar = () => {
        left-0 w-full h-screen bg-gradient-to-b from-black to-slate-600  my-5 md:hidden"
         >
             {links.map(({ id, link }) => (
-          <li key={id} className="font-inter2 cursor-pointer capitalize font-medium mt-4 text-gray-400 hover:scale-105 duration-300 ml-10 bg-gradient-to-l text-transparent bg-clip-text from-sky-600 to-teal-500 ">
+          <li key={id} className="font-inter2 cursor-pointer capitalize font-medium mt-4 text-gray-400 hover:scale-105 duration-300 ml-10 bg-gradient-to-l text-transparent bg-clip-text from-sky-600 to-teal-500 text-2xl">
             <Link to={link} 
              onClick={() => setNav(!nav)}smooth duration={500}>
               {link}
